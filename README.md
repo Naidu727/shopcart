@@ -9,3 +9,7 @@ Customer's Orders Page
 Customer's Profile Page
 
 ![Screenshot 2024-12-10 032548](https://github.com/user-attachments/assets/fe84969a-81d9-4ed5-8195-89935474b539)
+
+Seller's Page
+
+![Screenshot 2024-12-10 032800](https://github.com/user-attachments/assets/c69573c2-17ea-4998-8045-844a6c4e437a)
